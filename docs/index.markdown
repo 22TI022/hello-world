@@ -9,4 +9,4 @@ title:"ソフトウェア工学 ２０２４"
 #ソフトウェア工学 ２０２４
 
 git/github演習
-[新しいページへのリンク](./docs/title.md)
+[tite](./docs/title)
