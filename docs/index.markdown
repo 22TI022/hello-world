@@ -9,4 +9,4 @@ title:"ソフトウェア工学 ２０２４"
 #ソフトウェア工学 ２０２４
 
 git/github演習
-(./docs/title.md)
+遊びたい
