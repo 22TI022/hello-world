@@ -4,7 +4,7 @@
 
 layout: page
 title: "title"
-permalink: /docs/title
+permalink: /title
 ---
 
 # ソフトウェア工学　2024
