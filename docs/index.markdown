@@ -10,4 +10,4 @@ title: "ソフトウェア工学 ２０２４"
 
 git/github演習
 
-[title](./title)
+[title](./docs/title/)
