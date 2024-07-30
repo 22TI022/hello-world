@@ -9,4 +9,5 @@ title: "ソフトウェア工学 ２０２４"
 # ソフトウェア工学 ２０２４
 
 git/github演習
-[tite](./docs/title)
+
+[title](./docs/title)
